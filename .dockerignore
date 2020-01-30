@@ -1,0 +1,10 @@
+
+# user might chose to have local gem installs, they can be quiet big
+vendor/bundle
+
+# local environment which users should use to configure their instance
+/.env
+
+# all logfiles and tempfiles.
+/log
+/tmp
