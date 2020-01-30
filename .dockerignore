@@ -10,3 +10,4 @@ Dockerfile
 # all logfiles and tempfiles.
 log/*
 tmp/*
+# /vendor/bundle
